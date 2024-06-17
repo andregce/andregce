@@ -11,7 +11,7 @@ I’ve been a tinkerer since I was a little kid. I knew I wanted to work with co
 - I love music of every variety. I sing (poorly) and play the guitar. My favorite band is The Beatles.
 - I speak 3 languages (Portuguese, Spanish, and English) and I love learning new ones.
 - I love entertaining and cooking for a crowd. Either at my kitchen or at a grill, I’m comfortable feeding dozens at a time.
-- My wife and I got married in 2018 and we are expecting our first baby! 
+- My wife and I got married in 2018 and we ~~are expecting our first baby~~ have a `new Date().getFullYear() - 2021` year old. 
 - I can be easily [nerd sniped](https://xkcd.com/356/). 
 - I believe there is always a relevant XKCD (see above).
 - I consider jigsaw puzzles a competitive sport.
